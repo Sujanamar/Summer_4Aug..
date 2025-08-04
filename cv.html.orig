@@ -18,13 +18,14 @@
 	    <li>12th - State board</li>
 	    </ul>
 this is master branch.
-
+=======
 	    <li>10th - state board</li>
 	    <li>12th - state board</li>
- HEAD
+<<<<<<< HEAD
 this is qualification branch
 </ul>
- qualification
+>>>>>>> qualification
+=======
          </ul>
 	 <h2>Hobbies</h2>
         <ul>
